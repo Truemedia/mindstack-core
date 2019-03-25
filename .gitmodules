@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = git@github.com:Truemedia/mindstack.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:Truemedia/mindstack-cli.git
