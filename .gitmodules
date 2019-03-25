@@ -4,3 +4,6 @@
 [submodule "cli"]
 	path = cli
 	url = git@github.com:Truemedia/mindstack-cli.git
+[submodule "code"]
+	path = code
+	url = git@github.com:Truemedia/hightech.git
